@@ -2,7 +2,7 @@
 
 name = "elena-app"
 client_id = "c16ad0d29fb9b06d1ddbf23b8bf3e08e"
-application_url = "https://ecology-dot-cyber-cisco.trycloudflare.com"
+application_url = "https://refuse-ourselves-analog-cas.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,9 +11,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://ecology-dot-cyber-cisco.trycloudflare.com/auth/callback",
-  "https://ecology-dot-cyber-cisco.trycloudflare.com/auth/shopify/callback",
-  "https://ecology-dot-cyber-cisco.trycloudflare.com/api/auth/callback"
+  "https://refuse-ourselves-analog-cas.trycloudflare.com/auth/callback",
+  "https://refuse-ourselves-analog-cas.trycloudflare.com/auth/shopify/callback",
+  "https://refuse-ourselves-analog-cas.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
